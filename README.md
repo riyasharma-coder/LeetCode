@@ -7,6 +7,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0001-two-sum) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/riyasharma-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
