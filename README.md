@@ -7,6 +7,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1664-ways-to-make-a-fair-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -22,6 +23,7 @@ LeetCode solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/riyasharma-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -38,4 +40,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
