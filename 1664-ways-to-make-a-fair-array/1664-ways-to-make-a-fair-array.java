@@ -6,7 +6,6 @@ class Solution {
         int totalEven = 0;
         int totalOdd = 0;
 
-        // Compute total even and odd sums
         for (int i = 0; i < n; i++) {
             if (i % 2 == 0)
                 totalEven += nums[i];
@@ -23,7 +22,6 @@ class Solution {
             int sufEven = totalEven;
             int sufOdd = totalOdd;
 
-            // Remove current element from suffix
             if (i % 2 == 0)
                 sufEven -= nums[i];
             else
