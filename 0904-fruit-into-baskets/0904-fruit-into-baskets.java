@@ -8,10 +8,8 @@ class Solution {
 
         for (int j = 0; j < fruits.length; j++) {
 
-            // Add current fruit
             map.put(fruits[j], map.getOrDefault(fruits[j], 0) + 1);
 
-            // Shrink window if more than 2 fruit types
             while (map.size() > 2) {
 
                 map.put(fruits[i], map.get(fruits[i]) - 1);
