@@ -10,6 +10,7 @@ LeetCode solutions in Java.
 | [0045-jump-game-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/riyasharma-coder/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/riyasharma-coder/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -69,4 +70,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/riyasharma-coder/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
