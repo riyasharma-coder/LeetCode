@@ -9,7 +9,7 @@ class Solution {
         }
 
         HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, -1);   // prefix sum 0 first occurs before the array starts
+        map.put(0, -1);   
 
         int sum = 0;
         int ans = 0;
@@ -20,7 +20,7 @@ class Solution {
             if (map.containsKey(sum)) {
                 ans = Math.max(ans, i - map.get(sum));
             } else {
-                map.put(sum, i);   // store the first occurrence only
+                map.put(sum, i);   
             }
         }
 
