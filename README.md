@@ -18,6 +18,7 @@ LeetCode solutions in Java.
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/riyasharma-coder/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyasharma-coder/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/riyasharma-coder/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/riyasharma-coder/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -35,6 +36,7 @@ LeetCode solutions in Java.
 | [0560-subarray-sum-equals-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/riyasharma-coder/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ LeetCode solutions in Java.
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyasharma-coder/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1664-ways-to-make-a-fair-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
