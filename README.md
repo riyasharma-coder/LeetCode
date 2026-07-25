@@ -16,6 +16,7 @@ LeetCode solutions in Java.
 | [0525-contiguous-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/riyasharma-coder/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -52,6 +53,7 @@ LeetCode solutions in Java.
 | [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/riyasharma-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyasharma-coder/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
