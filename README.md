@@ -13,6 +13,7 @@ LeetCode solutions in Java.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/riyasharma-coder/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -55,6 +56,7 @@ LeetCode solutions in Java.
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/riyasharma-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/riyasharma-coder/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyasharma-coder/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
