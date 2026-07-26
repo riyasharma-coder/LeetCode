@@ -14,6 +14,7 @@ LeetCode solutions in Java.
 | [0056-merge-intervals](https://github.com/riyasharma-coder/LeetCode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/riyasharma-coder/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
@@ -152,4 +154,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riyasharma-coder/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
