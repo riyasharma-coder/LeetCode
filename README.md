@@ -31,6 +31,7 @@ LeetCode solutions in Java.
 | [0740-delete-and-earn](https://github.com/riyasharma-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/riyasharma-coder/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -108,6 +109,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0045-jump-game-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
+| [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ LeetCode solutions in Java.
 | [0056-merge-intervals](https://github.com/riyasharma-coder/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +173,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riyasharma-coder/LeetCode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Depth-First Search
 |  |
 | ------- |
