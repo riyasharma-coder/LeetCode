@@ -44,6 +44,7 @@ LeetCode solutions in Java.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyasharma-coder/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1664-ways-to-make-a-fair-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/riyasharma-coder/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2187-minimum-time-to-complete-trips](https://github.com/riyasharma-coder/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ LeetCode solutions in Java.
 | [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ LeetCode solutions in Java.
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,4 +197,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
