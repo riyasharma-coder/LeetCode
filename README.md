@@ -24,6 +24,7 @@ LeetCode solutions in Java.
 | [0238-product-of-array-except-self](https://github.com/riyasharma-coder/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/riyasharma-coder/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyasharma-coder/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0045-jump-game-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyasharma-coder/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -172,6 +174,7 @@ LeetCode solutions in Java.
 | [0056-merge-intervals](https://github.com/riyasharma-coder/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyasharma-coder/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
