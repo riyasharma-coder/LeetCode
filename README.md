@@ -30,6 +30,7 @@ LeetCode solutions in Java.
 | [0724-find-pivot-index](https://github.com/riyasharma-coder/LeetCode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/riyasharma-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/riyasharma-coder/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -111,6 +112,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0045-jump-game-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
+| [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -167,6 +169,7 @@ LeetCode solutions in Java.
 | [0056-merge-intervals](https://github.com/riyasharma-coder/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
+| [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -179,6 +182,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riyasharma-coder/LeetCode/tree/master/0283-move-zeroes) |
+| [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
 ## Depth-First Search
