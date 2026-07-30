@@ -39,6 +39,7 @@ LeetCode solutions in Java.
 | [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyasharma-coder/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/riyasharma-coder/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/riyasharma-coder/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyasharma-coder/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -84,6 +85,7 @@ LeetCode solutions in Java.
 | [0213-house-robber-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/riyasharma-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyasharma-coder/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -115,6 +117,7 @@ LeetCode solutions in Java.
 | [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
