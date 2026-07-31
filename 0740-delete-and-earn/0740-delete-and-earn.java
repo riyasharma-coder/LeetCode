@@ -1,29 +1,34 @@
 class Solution {
-    public int solve(int i, int[] freq, int[] dp){
-        if(i>=freq.length) return 0;
-        if(dp[i]!=-1) return dp[i];
 
-        int take = freq[i]*i + solve(i + 2, freq, dp);
-        int notTake = solve(i + 1, freq, dp);
-
-        dp[i] = Math.max(take, notTake);
-        return dp[i];
-    }
     public int deleteAndEarn(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        if(nums.length==1){
+            return nums[0];
+        }
+
         int n = nums.length;
-
-        int max = 0;
-        for(int num : nums){
-            max = Math.max(num, max);
+        int max = Integer.MIN_VALUE;
+        for(int i=0; i<n; i++){
+            max = Math.max(max, nums[i]);
         }
+
         int[] freq = new int[max+1];
-        int[] dp = new int[max+1];
-        Arrays.fill(dp, -1);
-
-        for(int num : nums){
-            freq[num]++;
+        for(int i=0; i<n; i++){
+            freq[nums[i]] += nums[i];
         }
-    
-        return solve(0, freq, dp);
+
+        int[] dp = new int[max+1];
+        dp[0] = freq[0];
+        if(max>0){
+            dp[1] = Math.max(freq[0],freq[1]);
+        }
+        int ans = 0;
+        for(int i=2; i<=max; i++){
+            dp[i] = Math.max(freq[i] + dp[i-2], dp[i-1]);
+        }
+
+        return dp[max];
     }
 }
