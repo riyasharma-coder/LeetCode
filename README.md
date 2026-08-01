@@ -52,6 +52,7 @@ LeetCode solutions in Java.
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/riyasharma-coder/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/riyasharma-coder/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2187-minimum-time-to-complete-trips](https://github.com/riyasharma-coder/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@ LeetCode solutions in Java.
 | [1328-break-a-palindrome](https://github.com/riyasharma-coder/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/riyasharma-coder/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
 | ------- |
