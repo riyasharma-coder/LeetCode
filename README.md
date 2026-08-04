@@ -136,6 +136,7 @@ LeetCode solutions in Java.
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
+| [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/riyasharma-coder/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/riyasharma-coder/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -179,6 +180,7 @@ LeetCode solutions in Java.
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
 ## Memoization
 |  |
 | ------- |
