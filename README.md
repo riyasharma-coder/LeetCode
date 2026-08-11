@@ -49,6 +49,7 @@ LeetCode solutions in Java.
 | [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/riyasharma-coder/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/riyasharma-coder/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1402-reducing-dishes](https://github.com/riyasharma-coder/LeetCode/tree/master/1402-reducing-dishes) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyasharma-coder/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyasharma-coder/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -110,6 +111,7 @@ LeetCode solutions in Java.
 | [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/riyasharma-coder/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1402-reducing-dishes](https://github.com/riyasharma-coder/LeetCode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyasharma-coder/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -148,6 +150,7 @@ LeetCode solutions in Java.
 | [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/riyasharma-coder/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/riyasharma-coder/LeetCode/tree/master/1328-break-a-palindrome) |
+| [1402-reducing-dishes](https://github.com/riyasharma-coder/LeetCode/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/riyasharma-coder/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -217,6 +220,7 @@ LeetCode solutions in Java.
 | [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1402-reducing-dishes](https://github.com/riyasharma-coder/LeetCode/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/riyasharma-coder/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
