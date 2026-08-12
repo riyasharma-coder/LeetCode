@@ -54,6 +54,7 @@ LeetCode solutions in Java.
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyasharma-coder/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyasharma-coder/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1642-furthest-building-you-can-reach](https://github.com/riyasharma-coder/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1664-ways-to-make-a-fair-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/riyasharma-coder/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -154,6 +155,7 @@ LeetCode solutions in Java.
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/riyasharma-coder/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/riyasharma-coder/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1402-reducing-dishes](https://github.com/riyasharma-coder/LeetCode/tree/master/1402-reducing-dishes) |
+| [1642-furthest-building-you-can-reach](https://github.com/riyasharma-coder/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/riyasharma-coder/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -289,4 +291,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/riyasharma-coder/LeetCode/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/riyasharma-coder/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 <!---LeetCode Topics End-->
