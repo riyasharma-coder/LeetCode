@@ -86,6 +86,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyasharma-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/riyasharma-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/riyasharma-coder/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/riyasharma-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -184,6 +185,7 @@ LeetCode solutions in Java.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/riyasharma-coder/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -309,4 +311,8 @@ LeetCode solutions in Java.
 | [0621-task-scheduler](https://github.com/riyasharma-coder/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/riyasharma-coder/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
