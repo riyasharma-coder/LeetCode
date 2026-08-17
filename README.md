@@ -30,6 +30,7 @@ LeetCode solutions in Java.
 | [0377-combination-sum-iv](https://github.com/riyasharma-coder/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyasharma-coder/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/riyasharma-coder/LeetCode/tree/master/0605-can-place-flowers) |
@@ -74,6 +75,7 @@ LeetCode solutions in Java.
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/riyasharma-coder/LeetCode/tree/master/0621-task-scheduler) |
@@ -186,6 +188,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2211-count-collisions-on-a-road](https://github.com/riyasharma-coder/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -315,4 +318,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
