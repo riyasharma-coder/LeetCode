@@ -287,6 +287,7 @@ LeetCode solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/riyasharma-coder/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
 ## Knapsack Problem
 |  |
@@ -327,4 +328,5 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riyasharma-coder/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/riyasharma-coder/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
