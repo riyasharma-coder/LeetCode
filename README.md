@@ -88,6 +88,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyasharma-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/riyasharma-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/riyasharma-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/riyasharma-coder/LeetCode/tree/master/0091-decode-ways) |
@@ -100,6 +101,7 @@ LeetCode solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyasharma-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/riyasharma-coder/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/riyasharma-coder/LeetCode/tree/master/0055-jump-game) |
@@ -255,6 +257,7 @@ LeetCode solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyasharma-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riyasharma-coder/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riyasharma-coder/LeetCode/tree/master/0283-move-zeroes) |
@@ -329,4 +332,8 @@ LeetCode solutions in Java.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riyasharma-coder/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/riyasharma-coder/LeetCode/tree/master/0206-reverse-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyasharma-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
