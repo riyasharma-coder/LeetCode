@@ -19,6 +19,7 @@ LeetCode solutions in Java.
 | [0120-triangle](https://github.com/riyasharma-coder/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riyasharma-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/riyasharma-coder/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
@@ -72,6 +73,7 @@ LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyasharma-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/riyasharma-coder/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -228,6 +230,7 @@ LeetCode solutions in Java.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/riyasharma-coder/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
@@ -236,6 +239,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0049-group-anagrams](https://github.com/riyasharma-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/riyasharma-coder/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyasharma-coder/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -254,6 +258,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riyasharma-coder/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -336,4 +341,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyasharma-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
