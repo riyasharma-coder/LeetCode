@@ -41,6 +41,7 @@ LeetCode solutions in Java.
 | [0643-maximum-average-subarray-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/riyasharma-coder/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/riyasharma-coder/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/riyasharma-coder/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/riyasharma-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
@@ -196,6 +197,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/riyasharma-coder/LeetCode/tree/master/0739-daily-temperatures) |
 | [2211-count-collisions-on-a-road](https://github.com/riyasharma-coder/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -338,6 +340,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/riyasharma-coder/LeetCode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
