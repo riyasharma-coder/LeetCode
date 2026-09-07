@@ -72,6 +72,7 @@ LeetCode solutions in Java.
 | [1732-find-the-highest-altitude](https://github.com/riyasharma-coder/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/riyasharma-coder/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/riyasharma-coder/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2187-minimum-time-to-complete-trips](https://github.com/riyasharma-coder/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/riyasharma-coder/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/riyasharma-coder/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -194,6 +195,7 @@ LeetCode solutions in Java.
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/riyasharma-coder/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/riyasharma-coder/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/riyasharma-coder/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/riyasharma-coder/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
@@ -373,6 +375,7 @@ LeetCode solutions in Java.
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/riyasharma-coder/LeetCode/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/riyasharma-coder/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/riyasharma-coder/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bracket Sequences
 |  |
 | ------- |
