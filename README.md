@@ -171,6 +171,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/riyasharma-coder/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Greedy
@@ -273,6 +274,7 @@ LeetCode solutions in Java.
 | [0215-kth-largest-element-in-an-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/riyasharma-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/riyasharma-coder/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyasharma-coder/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -305,6 +307,7 @@ LeetCode solutions in Java.
 | [0151-reverse-words-in-a-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riyasharma-coder/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/riyasharma-coder/LeetCode/tree/master/0443-string-compression) |
 | [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -368,6 +371,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/riyasharma-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/riyasharma-coder/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/riyasharma-coder/LeetCode/tree/master/0621-task-scheduler) |
@@ -439,6 +443,7 @@ LeetCode solutions in Java.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
