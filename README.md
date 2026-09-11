@@ -241,6 +241,7 @@ LeetCode solutions in Java.
 | [0062-unique-paths](https://github.com/riyasharma-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
