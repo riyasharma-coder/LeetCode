@@ -58,6 +58,7 @@ LeetCode solutions in Java.
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/riyasharma-coder/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [0990-satisfiability-of-equality-equations](https://github.com/riyasharma-coder/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyasharma-coder/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/riyasharma-coder/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
@@ -117,6 +118,7 @@ LeetCode solutions in Java.
 | [0451-sort-characters-by-frequency](https://github.com/riyasharma-coder/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
 | [0848-shifting-letters](https://github.com/riyasharma-coder/LeetCode/tree/master/0848-shifting-letters) |
+| [0990-satisfiability-of-equality-equations](https://github.com/riyasharma-coder/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1328-break-a-palindrome](https://github.com/riyasharma-coder/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2211-count-collisions-on-a-road](https://github.com/riyasharma-coder/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -337,6 +339,7 @@ LeetCode solutions in Java.
 | [0128-longest-consecutive-sequence](https://github.com/riyasharma-coder/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/riyasharma-coder/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/riyasharma-coder/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Matrix
 |  |
 | ------- |
@@ -415,6 +418,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0207-course-schedule](https://github.com/riyasharma-coder/LeetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/riyasharma-coder/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/riyasharma-coder/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Coloring
 |  |
 | ------- |
