@@ -326,6 +326,7 @@ LeetCode solutions in Java.
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/riyasharma-coder/LeetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/riyasharma-coder/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/riyasharma-coder/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ LeetCode solutions in Java.
 | [0207-course-schedule](https://github.com/riyasharma-coder/LeetCode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
 | [0785-is-graph-bipartite](https://github.com/riyasharma-coder/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/riyasharma-coder/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
@@ -340,6 +342,7 @@ LeetCode solutions in Java.
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/riyasharma-coder/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/riyasharma-coder/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/riyasharma-coder/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
 | ------- |
@@ -419,6 +422,7 @@ LeetCode solutions in Java.
 | [0207-course-schedule](https://github.com/riyasharma-coder/LeetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/riyasharma-coder/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/riyasharma-coder/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/riyasharma-coder/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Coloring
 |  |
 | ------- |
