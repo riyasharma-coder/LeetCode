@@ -141,6 +141,7 @@ LeetCode solutions in Java.
 | [0198-house-robber](https://github.com/riyasharma-coder/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/riyasharma-coder/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
@@ -471,5 +472,6 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyasharma-coder/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
