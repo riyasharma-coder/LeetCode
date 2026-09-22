@@ -66,6 +66,7 @@ LeetCode solutions in Java.
 | [1046-last-stone-weight](https://github.com/riyasharma-coder/LeetCode/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/riyasharma-coder/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/riyasharma-coder/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/riyasharma-coder/LeetCode/tree/master/1402-reducing-dishes) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/riyasharma-coder/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -270,6 +271,7 @@ LeetCode solutions in Java.
 | [0451-sort-characters-by-frequency](https://github.com/riyasharma-coder/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/riyasharma-coder/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -293,6 +295,7 @@ LeetCode solutions in Java.
 | [0870-advantage-shuffle](https://github.com/riyasharma-coder/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/riyasharma-coder/LeetCode/tree/master/1402-reducing-dishes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/riyasharma-coder/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -474,4 +477,5 @@ LeetCode solutions in Java.
 | [0137-single-number-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyasharma-coder/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
