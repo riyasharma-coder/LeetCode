@@ -80,6 +80,7 @@ LeetCode solutions in Java.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/riyasharma-coder/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2187-minimum-time-to-complete-trips](https://github.com/riyasharma-coder/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/riyasharma-coder/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/riyasharma-coder/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3074-apple-redistribution-into-boxes](https://github.com/riyasharma-coder/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -478,4 +479,5 @@ LeetCode solutions in Java.
 | [0338-counting-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyasharma-coder/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/riyasharma-coder/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
