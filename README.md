@@ -308,6 +308,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0053-maximum-subarray](https://github.com/riyasharma-coder/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/riyasharma-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -476,6 +477,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyasharma-coder/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
