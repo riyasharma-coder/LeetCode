@@ -1,42 +1,38 @@
 class Pair{
-    int node;
+    int num;
     int freq;
-
-    Pair(int node, int freq){
-        this.node = node;
+    Pair(int num, int freq){
+        this.num = num;
         this.freq = freq;
     }
 }
-
 class Solution {
-    
     public int[] topKFrequent(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
         int n = nums.length;
 
+        HashMap<Integer, Integer> map = new HashMap<>();
         for(int i=0; i<n; i++){
-            map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+            map.put(nums[i], map.getOrDefault(nums[i],0)+1);
         }
 
         PriorityQueue<Pair> pq = new PriorityQueue<>(
-            (a,b) -> Integer.compare(a.freq, b.freq)
+            (a, b) -> Integer.compare(a.freq, b.freq)
         );
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            if(pq.size() >= k && pq.peek().freq < entry.getValue() ){
-                pq.poll();
-            }
-
-            if(pq.size()<k){
-                pq.add(new Pair(entry.getKey(), entry.getValue()));
-            }
-        }
 
         int[] ans = new int[k];
-        int t=0;
-        while(!pq.isEmpty()){
-            ans[t++] = pq.poll().node;
+        int t = 0;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()){
+            pq.add(new Pair(entry.getKey(), entry.getValue()));
+            
+            if(pq.size()>k){
+                pq.poll();
+            }
         }
-
+        while(!pq.isEmpty()){
+            Pair node = pq.poll();
+            ans[t++] = node.num;
+        }
+        
         return ans;
     }
 }
