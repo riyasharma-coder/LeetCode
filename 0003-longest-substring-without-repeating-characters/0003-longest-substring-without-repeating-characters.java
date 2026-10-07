@@ -1,23 +1,30 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
+        
+        //does char exist in set
+        //if it does not then simply add into set and increase the count
+        //and then i++
 
+        //else if char exist in set then simply remove char present at j index and j++;
+
+        HashSet<Character> set = new HashSet<>();
         int i=0;
         int j=0;
-        int len = 0;
-        int maxLen = 0;
-        HashSet<Character> set = new HashSet<>();
-        while(j<n){
-            while(set.contains(s.charAt(j))){
-                set.remove(s.charAt(i));
-                i++;
+        int count = 0;
+        int max = 0;
+        while(i<n){
+            char ch = s.charAt(i);
+            while(set.contains(ch)){
+                set.remove(s.charAt(j));
+                j++;
             }
-        
-            set.add(s.charAt(j));
-            len = j-i+1;
-            maxLen = Math.max(maxLen, len);
-            j++;
+            
+            set.add(ch);
+            count = i-j+1;
+            max = Math.max(max, count);
+            i++;
         }
-        return maxLen;
+        return max;
     }
 }
