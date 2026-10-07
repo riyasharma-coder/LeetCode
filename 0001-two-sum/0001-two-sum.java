@@ -3,13 +3,15 @@ class Solution {
 
         int n = nums.length;
         HashMap<Integer, Integer> map = new HashMap<>();
+
         for(int i=0; i<n; i++){
-            int ans = target-nums[i];
-            if(map.containsKey(ans)){
-                return new int[]{map.get(ans),i};
+            int res = target-nums[i];
+
+            if(map.containsKey(res)){
+                return new int[]{map.get(res), i};
             }
-            map.put(nums[i],i);
+            map.put(nums[i], i);
         }
-        return new int[]{-1};
+        return new int[]{};
     }
 }
