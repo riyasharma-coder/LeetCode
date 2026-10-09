@@ -7,6 +7,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/riyasharma-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0045-jump-game-ii) |
@@ -111,6 +112,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyasharma-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/riyasharma-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/riyasharma-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/riyasharma-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/riyasharma-coder/LeetCode/tree/master/0091-decode-ways) |
@@ -497,4 +499,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riyasharma-coder/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/riyasharma-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
