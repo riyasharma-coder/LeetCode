@@ -17,6 +17,7 @@ LeetCode solutions in Java.
 | [0056-merge-intervals](https://github.com/riyasharma-coder/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/riyasharma-coder/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/riyasharma-coder/LeetCode/tree/master/0120-triangle) |
@@ -163,6 +164,7 @@ LeetCode solutions in Java.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/riyasharma-coder/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/riyasharma-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Prefix Sum
 |  |
@@ -493,6 +495,7 @@ LeetCode solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/riyasharma-coder/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0338-counting-bits) |
