@@ -27,9 +27,9 @@ class Solution {
                         StringBuilder sb = new StringBuilder(word);
                         sb.setCharAt(i, ch);
                         String str = sb.toString();
-                        if (word.charAt(i) == ch) {
-                            continue;
-                        }
+                        // if (word.charAt(i) == ch) {
+                        //     continue;
+                        // }
                         if(str.equals(endWord)){
                             return count + 1;
                         }else{
