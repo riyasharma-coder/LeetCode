@@ -18,6 +18,7 @@ LeetCode solutions in Java.
 | [0056-merge-intervals](https://github.com/riyasharma-coder/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/riyasharma-coder/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/riyasharma-coder/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -267,6 +268,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/riyasharma-coder/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/riyasharma-coder/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0263-ugly-number) |
