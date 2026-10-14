@@ -36,6 +36,7 @@ LeetCode solutions in Java.
 | [0215-kth-largest-element-in-an-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/riyasharma-coder/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/riyasharma-coder/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/riyasharma-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -102,6 +103,7 @@ LeetCode solutions in Java.
 | [0169-majority-element](https://github.com/riyasharma-coder/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/riyasharma-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/riyasharma-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -230,6 +232,7 @@ LeetCode solutions in Java.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riyasharma-coder/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/riyasharma-coder/LeetCode/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/riyasharma-coder/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -267,6 +270,7 @@ LeetCode solutions in Java.
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -304,6 +308,7 @@ LeetCode solutions in Java.
 | [0215-kth-largest-element-in-an-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyasharma-coder/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/riyasharma-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0414-third-maximum-number) |
@@ -515,6 +520,7 @@ LeetCode solutions in Java.
 | [0136-single-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyasharma-coder/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
