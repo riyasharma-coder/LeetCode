@@ -197,6 +197,7 @@ LeetCode solutions in Java.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/riyasharma-coder/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/riyasharma-coder/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/riyasharma-coder/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/riyasharma-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -246,6 +247,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/riyasharma-coder/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/riyasharma-coder/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/riyasharma-coder/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/riyasharma-coder/LeetCode/tree/master/0739-daily-temperatures) |
