@@ -34,6 +34,7 @@ LeetCode solutions in Java.
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/riyasharma-coder/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/riyasharma-coder/LeetCode/tree/master/0217-contains-duplicate) |
@@ -275,6 +276,7 @@ LeetCode solutions in Java.
 | [0066-plus-one](https://github.com/riyasharma-coder/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
@@ -548,4 +550,24 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/riyasharma-coder/LeetCode/tree/master/0127-word-ladder) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
