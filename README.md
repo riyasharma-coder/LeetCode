@@ -19,6 +19,7 @@ LeetCode solutions in Java.
 | [0063-unique-paths-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/riyasharma-coder/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/riyasharma-coder/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/riyasharma-coder/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -231,6 +232,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/riyasharma-coder/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyasharma-coder/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riyasharma-coder/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -394,6 +396,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/riyasharma-coder/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/riyasharma-coder/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
 ## Counting Sort
 |  |
