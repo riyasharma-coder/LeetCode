@@ -91,6 +91,7 @@ LeetCode solutions in Java.
 | [1833-maximum-ice-cream-bars](https://github.com/riyasharma-coder/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/riyasharma-coder/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/riyasharma-coder/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/riyasharma-coder/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/riyasharma-coder/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/riyasharma-coder/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -284,6 +285,7 @@ LeetCode solutions in Java.
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/riyasharma-coder/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Memoization
@@ -562,6 +564,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/riyasharma-coder/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
@@ -579,4 +582,12 @@ LeetCode solutions in Java.
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
