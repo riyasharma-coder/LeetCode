@@ -94,6 +94,7 @@ LeetCode solutions in Java.
 | [2187-minimum-time-to-complete-trips](https://github.com/riyasharma-coder/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/riyasharma-coder/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/riyasharma-coder/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2614-prime-in-diagonal](https://github.com/riyasharma-coder/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3074-apple-redistribution-into-boxes](https://github.com/riyasharma-coder/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -284,6 +285,7 @@ LeetCode solutions in Java.
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/riyasharma-coder/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Memoization
 |  |
 | ------- |
@@ -401,6 +403,7 @@ LeetCode solutions in Java.
 | [0064-minimum-path-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/riyasharma-coder/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/riyasharma-coder/LeetCode/tree/master/0200-number-of-islands) |
+| [2614-prime-in-diagonal](https://github.com/riyasharma-coder/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -560,6 +563,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/riyasharma-coder/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
 | ------- |
