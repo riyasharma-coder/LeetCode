@@ -283,6 +283,7 @@ LeetCode solutions in Java.
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Memoization
 |  |
 | ------- |
@@ -558,16 +559,20 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
