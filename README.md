@@ -144,6 +144,7 @@ LeetCode solutions in Java.
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
 | [0848-shifting-letters](https://github.com/riyasharma-coder/LeetCode/tree/master/0848-shifting-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/riyasharma-coder/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1328-break-a-palindrome](https://github.com/riyasharma-coder/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2211-count-collisions-on-a-road](https://github.com/riyasharma-coder/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -283,6 +284,7 @@ LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -585,9 +587,11 @@ LeetCode solutions in Java.
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
