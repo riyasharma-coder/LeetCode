@@ -103,6 +103,7 @@ LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyasharma-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/riyasharma-coder/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/riyasharma-coder/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/riyasharma-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/riyasharma-coder/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/riyasharma-coder/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -130,6 +131,7 @@ LeetCode solutions in Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyasharma-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/riyasharma-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/riyasharma-coder/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/riyasharma-coder/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/riyasharma-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riyasharma-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/riyasharma-coder/LeetCode/tree/master/0049-group-anagrams) |
@@ -278,6 +280,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/riyasharma-coder/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/riyasharma-coder/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/riyasharma-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/riyasharma-coder/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0070-climbing-stairs) |
