@@ -291,6 +291,7 @@ LeetCode solutions in Java.
 | [0263-ugly-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
+| [0507-perfect-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
