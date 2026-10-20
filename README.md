@@ -69,6 +69,7 @@ LeetCode solutions in Java.
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/riyasharma-coder/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/riyasharma-coder/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/riyasharma-coder/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -126,6 +127,7 @@ LeetCode solutions in Java.
 | [0740-delete-and-earn](https://github.com/riyasharma-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/riyasharma-coder/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -297,6 +299,7 @@ LeetCode solutions in Java.
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1323-maximum-69-number) |
@@ -323,6 +326,7 @@ LeetCode solutions in Java.
 | [0451-sort-characters-by-frequency](https://github.com/riyasharma-coder/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/riyasharma-coder/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/riyasharma-coder/LeetCode/tree/master/0767-reorganize-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/riyasharma-coder/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
@@ -580,6 +584,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riyasharma-coder/LeetCode/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/riyasharma-coder/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/riyasharma-coder/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -601,11 +606,13 @@ LeetCode solutions in Java.
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
