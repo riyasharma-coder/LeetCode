@@ -187,6 +187,7 @@ LeetCode solutions in Java.
 | [0646-maximum-length-of-pair-chain](https://github.com/riyasharma-coder/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/riyasharma-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/riyasharma-coder/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/riyasharma-coder/LeetCode/tree/master/0887-super-egg-drop) |
 | [0983-minimum-cost-for-tickets](https://github.com/riyasharma-coder/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/riyasharma-coder/LeetCode/tree/master/1024-video-stitching) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -259,6 +260,7 @@ LeetCode solutions in Java.
 | [0704-binary-search](https://github.com/riyasharma-coder/LeetCode/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/riyasharma-coder/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/riyasharma-coder/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0887-super-egg-drop](https://github.com/riyasharma-coder/LeetCode/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyasharma-coder/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/riyasharma-coder/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/riyasharma-coder/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -304,6 +306,7 @@ LeetCode solutions in Java.
 | [0279-perfect-squares](https://github.com/riyasharma-coder/LeetCode/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/0509-fibonacci-number) |
+| [0887-super-egg-drop](https://github.com/riyasharma-coder/LeetCode/tree/master/0887-super-egg-drop) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/riyasharma-coder/LeetCode/tree/master/1137-n-th-tribonacci-number) |
