@@ -137,6 +137,7 @@ LeetCode solutions in Java.
 | [0930-binary-subarrays-with-sum](https://github.com/riyasharma-coder/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/riyasharma-coder/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/riyasharma-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ LeetCode solutions in Java.
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1328-break-a-palindrome](https://github.com/riyasharma-coder/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyasharma-coder/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/riyasharma-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2211-count-collisions-on-a-road](https://github.com/riyasharma-coder/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Dynamic Programming
 |  |
