@@ -635,4 +635,8 @@ LeetCode solutions in Java.
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/riyasharma-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyasharma-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyasharma-coder/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/riyasharma-coder/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
